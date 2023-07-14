@@ -1,0 +1,11 @@
+.list-group-item{
+  cursor: pointer;
+  height: 150px;
+}
+
+.row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
